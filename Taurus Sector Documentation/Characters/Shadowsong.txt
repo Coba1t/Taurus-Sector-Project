@@ -1,0 +1,56 @@
+Name: Shadowsong
+
+Background:
+
+Overview:
+Shadowsong is a support that joins your party in the late game. He thrives in extended fights and when enemies that deal most of their damage through physical attacks. Shadowsong is very fragile and his spells all have an enormous mana cost, but both flaws are mitigated through night rejuvenation. Nightfall, Shadowsong's signature passive, allows him to heavily punish attacking enemies. His other spells are also very strong in certain situations: cloak of darkness dramatically increases his teammates’ evasion over time, shadowgaze can permanently stun an enemy while also dealing massive damage, and dark harmony can potentially save allies on the brink of death, bringing them back to the battlefield with full health and mana. His ultimate ability, melody of shadows, completely devastates enemies by immediately applying multiple stacks of his normal spells, given that the player is willing to sacrifice his life in exchange. Beware, though: enemy casters completely destroy Shadowsong, since they are not affected by the majority of his abilities with the exception of his stun.
+
+
+Base Stats:
+
+3 STR 8 AGI 5 INT
+
+65: 975/975/520
+80: 1200/1200/640
+100: 1500/1500/800
+
+Skill List:
+
+Night Rejuvenation
+Self
+Whenever Shadowsong is damaged by a physical attack, he regenerates 50% of his maximum mana and 10% of his maximum HP.
+None
+Innate
+
+Nightfall
+All Enemies
+Shadowsong turns day into night and begins every battle by applies a stack of nightfall to his enemies. Whenever an enemy physically damages Shadowsong or his allies, it gains a stack of nightfall. Nightfall damage triggers when the enemy has has not attacked in 3 rounds.* The target is dealt 50/100/150 damage per stack and is no longer affected by the spell after the damage.
+None
+Passive
+
+Cloak of Darkness (Q)
+All Allies
+Shadowsong grants all allies a cloak of darkness, increasing evasion by 50% for 3 rounds. This effect can stack 0/1/2 times (for 25% after the first stack), with each cast refreshing its duration.
+100/150/200 MP
+Instant
+
+Shadowgaze (W)
+Single Enemy
+A channeling spell that stuns the enemy for 3 turns, in which they are invulnerable to damage but gain 0/1/2 nightfall stacks per round.
+40%/50%/60% MM + 50/100/150 MP
+1, Channel
+
+Dark Harmony (E)
+Single Ally or self
+Shadowsong puts an ally into a state of stasis for 4/3/2 turns. After its full duration, the target regenerates all health and mana instantly, and is purged of all negative status effects. An enemy can dispel dark harmony by directly dealing damage to the target.
+15%/30%/45% MM + 30/60/90 MP
+Instant
+
+Melody of Shadows (R)
+All
+Shadowsong sings his final melody, and immediately falls and loses all HP. After two rounds (in which nightfall stacks cannot be triggered), all enemies are shadow-gazed for two turns gaining 3 additional nightfall stacks per turn, while allies go into dark harmony for two turns. Finally, allies are given 3 special stacks of cloak that last for 4 rounds when they awaken, and all nightfall damage is triggered when the shadowgaze duration ends.
+100% HP, MM
+2, Delay
+
+Notes:
+* Nightfall damage will not trigger (stack timer will not tick) if the enemy is under the effects of shadowgaze.

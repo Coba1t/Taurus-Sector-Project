@@ -1,0 +1,58 @@
+Name: Arcanus II, the Stormcaster
+
+Background:
+
+Overview:
+Stormcaster is an versatile glass cannon/crowd controller that joins your party relatively early. He has pitiful physical damage, but ungodly magical output. Stormcaster's innate, Sinister Intellect, attempts to balance his long casting times by allowing him to regain concentration even when being attacked by an enemy. His passive, essence of the storm, is Stormcaster's only method of conserving ammunition for his spells, and is also a good supporting ability for active teammates. His active spells focus on dealing damage and control through the elements: perpetual inferno does fire damage to all enemies, ethereal hail can stun an enemy while also doing freeze damage over time, and heavenly lightning deals a great amount of shock damage to a single target. Stormcaster's ultimate, Dracones Elementorum, is a lengthy casting spell that summons three divine dragons that severely damage enemies' HP, mana, and speed. Magic immunity is Stormcaster's greatest enemy, as these enemies are completely protected from the effects of Stormcaster's entire skill set.
+
+Base Stats:
+
+4 STR 4 AGI 8 INT
+
+30:  600/720
+65:  1300/1560
+100: 2000/2400
+
+
+Skill List:
+
+Sinister Intellect
+Self
+The sinister intellect of Stormcaster allows him to cast some of the most powerful spells in existence with ease. If he is damaged while casting, Stormcaster only has a 50% chance of breaking concentration.
+None
+Innate
+
+Essence of the Storm
+Allies
+Stormcaster absorbs the essence of the storm. Surrounding allies, and Stormcaster, have a 50% chance to have their spells cost 12.5%/25%/50% less mana. This effect is doubled for Stormcaster himself.
+None
+Passive
+
+Perpetual Inferno (Q)
+All Enemies
+Stormcaster Casts a massive inferno to engulf the enemy, dealing 200/300/400 initial fire damage and 150 additional fire damage per round for 2/3/4 rounds.
+200/400/600 MP
+1, Cast
+
+Ethereal Hail (W)
+Single Enemy
+Stormcaster summons a freezing blast from the ethereal plane, stunning the target for  2/3/3 rounds as well as dealing 100 freeze damage for 3/3/4 rounds.
+250/350/450 MP
+1, Cast
+
+Heavenly Lightning (E)
+Single Enemy
+Stormcaster calls forth a powerful bolt of lightning down on the target, dealing 800/1200/1600 lightning damage instantly.
+500/700/1000 MP
+1, Cast
+
+Dracones Elementorum (R)
+All Enemies
+
+Using the apex spell known to only the celestial battle casters, Stormcaster summons X of three divine dragons.* Pyros, the fire dragon, with 1000 HP and 1000 damage, has a 25% chance to deal a crit for double damage. Cryos, the ice dragon, with 2000 HP and 500 damage, slows all enemies it attacks by 25% for two rounds. Kataios, the thunder dragon, with 1500 HP and 750 damage, burns 25% of the enemy's max mana pool with each hit.** Dracones Elementorum can only be used once per fight (not including instances where the Cast is interrupted).
+800 * X MP
+X, Cast
+
+Notes:
+* X is the amount of dragons that Stormcaster chooses to summon.
+** Pyros attacks the enemy with the highest current HP, Cryos attacks the enemy with the highest current speed, and Kataios attacks the enemy with the highest current mana.

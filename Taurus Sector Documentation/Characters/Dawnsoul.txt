@@ -1,0 +1,44 @@
+Name:
+Elrore Woodsoul, the Duskranger
+
+Background:
+
+Overview:
+
+Base Stats:
+
+4 STR 7 AGI 5 INT
+
+15: 300/225/105
+50: 1000/750/350
+100: 2000/1500/700
+
+Skill List:
+
+Eagle Eye
+Self
+Duskranger’s enhanced senses grants a 15% chance to crit for double damage with every shot.
+None
+Innate
+
+None
+Passive
+
+Rapid Flurry (Q)
+Single Enemy
+Duskranger uses some of his mana to increase his firing speed, allowing him to fire 3/4/5 shots in a lightning barrage.
+60/120/240 MP
+1
+Channel
+
+Scattershot (W)
+All Enemies
+Instant
+	
+Fabled Quiver (E)
+Self
+Duskranger's mystical quiver contains three different types of arcane arrows, which he quickly cycles between in order to adapt to every situation. Razor arrow, Duskranger's default arrow, does 15/25/35% more damage with each consecutive shot on the same enemy. Vampiric arrow, which Duskranger uses in dire situations, has a 30%/40%/50% chance of lifestealing for 100% of the damage it does.
+None
+Instant
+
+Notes:
